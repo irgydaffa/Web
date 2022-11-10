@@ -1,0 +1,20 @@
+body{
+    background-color: #395144;
+}
+
+.container{
+    background-color: #F0EBCE;
+    float: left;
+    width: 25%;
+    margin: 20px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.row{
+    position: relative;
+    padding: 100px 220px 100px 200px;
+    content: "";
+    display: table;
+    clear: both; 
+}
